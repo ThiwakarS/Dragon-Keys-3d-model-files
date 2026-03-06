@@ -1,4 +1,6 @@
-# 🐉 Dragon Keys
+![Dragon Keys Logo](.logo-large.png)
+
+# Dragon Keys
 > **Handcrafted. Open Source. Built for enthusiasts.**
 
 Dragon Keys is a Chennai-based design house and workshop specializing in ergonomic mechanical keyboards, precision 3D-printed automotive accessories, and custom maker tools. 
