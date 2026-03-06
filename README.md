@@ -1,4 +1,4 @@
-![Dragon Keys Logo](.logo-large.png)
+![Dragon Keys Logo](./logo-large.png)
 
 # Dragon Keys
 > **Handcrafted. Open Source. Built for enthusiasts.**
