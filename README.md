@@ -22,4 +22,4 @@ All designs in this organization are released under the **CC BY-NC-SA 4.0** (Cre
 * **Commercial Use:** Not permitted. Selling these designs or physical prints without prior consent is prohibited.
 
 ---
-**Looking to buy a pre-built unit?** Visit [DragonKeys.in](https://your-website-url.com) or [Order via WhatsApp](https://wa.me/911234567890).
+**Looking to buy a pre-built unit?** Visit [DragonKeys.in](https://your-website-url.com)

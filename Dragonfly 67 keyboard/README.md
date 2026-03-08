@@ -1,6 +1,8 @@
 # ⌨️ Dragonfly 67 Keyboard
 The Dragonfly 67 is an ergonomic split mechanical keyboard inspired by the Alice layout. It integrates high-end features like audio sliders and rotary encoders into a compact, 3D-printable form factor.
 
+Will include the circuit diagram soon, i'm working on it. until then please go through the keyboard config and keymap files.
+
 ## ✨ Custom VIAL Firmware
 
 This keyboard uses a custom fork of [VIAL](https://get.vial.today/) with patches applied to support **[deej](https://github.com/omriharel/deej)** — an open-source, hardware-based volume mixer.
